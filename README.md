@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | React.js • Spring Boot • Node.js | Google Cloud Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,12 +71,12 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFRADOX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AFRADOX&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AFRADOX&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AFRADOX&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFRADOX&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFRADOX&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" width="40%" />
 </p>
 
 ---
@@ -84,11 +84,11 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AFRADOX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AFRADOX&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile%20Views&color=ffffff&style=flat" alt="Profile Views" />
 </p>
