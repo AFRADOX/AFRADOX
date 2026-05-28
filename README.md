@@ -89,14 +89,6 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 
 ---
 
-### 🚀 Top Contributed Repos:
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AFRADOX&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AFRADOX&icon=0&color=6&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
