@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | React.js • Spring Boot • Node.js | Google Cloud Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&background=00000000&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 - Backend: Node.js, Express.js, Spring Boot
 - Databases: MongoDB, SQL
 - Languages: Java, JavaScript (ES6+), C, Python
-- Tools: Git, GitHub, Postman, REST APIs
+- Tools: Git, GitHub, Postman, REST APIs, Blender, Unity
 - Cloud & Deployment: Google Cloud, Vercel
 
 💡 **Interests:**
@@ -65,30 +65,44 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFRADOX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AFRADOX&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=AFRADOX&theme=github-dark&hide_border=true" width="60%" />
 </p>
 
+<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFRADOX&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <a href="https://github.com/AFRADOX">
+    <img src="https://img.shields.io/badge/Contributions-54-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AFRADOX?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-62-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AFRADOX">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+</p>
+-->
+
+---
+
+### 🏆 Achievements:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🤖%20AI%20App-Aware%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️%20Certified-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
-
+<!--
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AFRADOX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile+Views&color=58a6ff&style=flat" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+-->
