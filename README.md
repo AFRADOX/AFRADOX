@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 - Developing performant APIs and scalable backend systems.
 - Building AI-powered applications using Google Gemini API and NLP.
 - Exploring new web technologies and full-stack architectures.
-- 🌱 Currently Learning: Advanced System Design, DSA, and GraphQL.
+- 🌱Exploring Advanced System Design, DSA, and GraphQL.
 
 🛠 **Experience:**
 - SDE Intern — built and deployed production React.js apps & RESTful APIs.
