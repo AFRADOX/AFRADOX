@@ -33,16 +33,18 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 
 ---
 
+<!--
 ### 🔗 Socials:
+-->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivaisharma1403@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
