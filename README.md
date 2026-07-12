@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | React.js • Spring Boot • Node.js | Google Cloud Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&background=00000000&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&background=00000000&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 - SDE Intern — built and deployed production React.js apps & RESTful APIs.
 - AI application development using Spring Boot and Google Gemini API.
 - Desktop application development with authentication and PDF reporting.
-- Open-source contributor — Excalidraw (TypeScript type-safety fix).
 
 ---
 
@@ -100,14 +99,9 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 <p align="left">
   <img src="https://img.shields.io/badge/🤖%20AI%20App-Aware%20AI-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☁️%20Certified-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌱%20OSS-Excalidraw%20Contributor-58A6FF?style=for-the-badge" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile+Views&color=58a6ff&style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:58A6FF&height=120&section=footer" />
