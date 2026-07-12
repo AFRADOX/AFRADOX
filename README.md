@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shivam </h1>
+<h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">🚀 Full-Stack Developer | React.js • Spring Boot • Node.js | Google Cloud Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&background=00000000&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&background=00000000&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8957E5&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150">
 </p>
 
 ---
@@ -24,29 +32,19 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 - Developing performant APIs and scalable backend systems.
 - Building AI-powered applications using Google Gemini API and NLP.
 - Exploring new web technologies and full-stack architectures.
-- 🌱Exploring Advanced System Design, DSA, and GraphQL.
+- 🌱 Exploring Advanced System Design, DSA, and GraphQL.
 
 🛠 **Experience:**
 - SDE Intern — built and deployed production React.js apps & RESTful APIs.
 - AI application development using Spring Boot and Google Gemini API.
 - Desktop application development with authentication and PDF reporting.
+- Open-source contributor — Excalidraw (TypeScript type-safety fix).
 
 ---
 
-<!--
-### 🔗 Socials:
--->
-
-<!-- <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shivaisharma1403@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p> -->
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:111827&height=3&width=1000" />
+</p>
 
 ### 💻 Tech Stack:
 
@@ -75,22 +73,25 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AFRADOX&theme=github-dark&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AFRADOX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AFRADOX&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<!--
 <p align="center">
-  <a href="https://github.com/AFRADOX">
-    <img src="https://img.shields.io/badge/Contributions-54-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/AFRADOX?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-62-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/AFRADOX">
-    <img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFRADOX&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
--->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFRADOX&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AFRADOX/AFRADOX/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
 
 ---
 
@@ -99,12 +100,15 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 <p align="left">
   <img src="https://img.shields.io/badge/🤖%20AI%20App-Aware%20AI-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☁️%20Certified-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌱%20OSS-Excalidraw%20Contributor-58A6FF?style=for-the-badge" />
 </p>
 
 ---
 
-<!--
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile+Views&color=58a6ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AFRADOX&label=Profile+Views&color=58a6ff&style=for-the-badge" />
 </p>
--->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:58A6FF&height=120&section=footer" />
+</p>
