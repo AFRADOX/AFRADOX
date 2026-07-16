@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 🌟 **Skills:**
 - Frontend: React.js, Tailwind CSS, HTML5, CSS3
 - Backend: Node.js, Express.js, Spring Boot
-- Databases: MySQL, PostgreSQL, MongoDB,Docker
+- Databases: MySQL, PostgreSQL, MongoDB
 - Languages: Java, JavaScript (ES6+), C, Python
-- Tools: Git, GitHub, Postman, REST APIs, Blender, Unity
+- Tools: Git, GitHub, Postman, REST APIs, Blender, Unity,Docker
 - Cloud & Deployment: Google Cloud, Vercel
 
 💡 **Interests:**
