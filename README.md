@@ -93,8 +93,9 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFRADOX&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
-https://github-readme-stats-eight-theta.vercel.app/api?username=AFRADOX&show_icons=true&theme=tokyonight&hide_border=true
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AFRADOX&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 ---
 
 ### 🐍 Contribution Snake:
