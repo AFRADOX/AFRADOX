@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFRADOX&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFRADOX&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats-eight-theta.vercel.app/api?username=AFRADOX&show_icons=true&theme=tokyonight&hide_border=true
 
 ---
 
