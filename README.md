@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 - Backend: Node.js, Express.js, Spring Boot
 - Databases: MySQL, PostgreSQL, MongoDB
 - Languages: Java, JavaScript (ES6+), C, Python
-- Tools: Git, GitHub, Postman, REST APIs, Blender, Unity,Docker,claude
+- Tools: Git, GitHub, Postman, REST APIs, Blender, Unity,Docker,Claude
 - Cloud & Deployment: Google Cloud, Vercel
 
 💡 **Interests:**
@@ -80,6 +80,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
