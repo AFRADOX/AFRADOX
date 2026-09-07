@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 - Databases: MySQL, PostgreSQL, MongoDB
 - Languages: Java, JavaScript (ES6+), C, Python
 - Tools: Git, GitHub, Postman, REST APIs, Docker, Claude, MCP, Blender, Unity
-- Cloud & Deployment: Google Cloud, Vercel
+- Cloud & Deployment: Google Cloud, Vercel,Neon
 
 💡 **Interests:**
 - Crafting beautiful, responsive user interfaces.
